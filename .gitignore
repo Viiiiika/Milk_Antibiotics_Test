@@ -1,2 +1,5 @@
 *.csv
 *.zip
+venv
+data/
+antibiotics/
