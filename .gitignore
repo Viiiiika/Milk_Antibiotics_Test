@@ -1,5 +1,5 @@
 *.csv
 *.zip
-venv
+venv/
 data/
 antibiotics/
